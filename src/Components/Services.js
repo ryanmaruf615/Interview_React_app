@@ -1,5 +1,5 @@
 import React, {Fragment, useEffect, useState} from 'react';
-import {Container, Row} from "react-bootstrap";
+import {Container} from "react-bootstrap";
 import axios from "axios";
 
 function Services() {
@@ -16,8 +16,7 @@ function Services() {
     const result = await axios.get("https://examplebd.com/api/get-csrf-token");
         setData(result.data);
     }
-    const url = "";
-
+    
     const postService =async () =>{
         const result = await axios.post("https://examplebd.com/api/live-classes?user_id=10089");
         setPostData(result.data);
