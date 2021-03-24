@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+        "name": "Maruf",
+        "BloodGroup": "AB+",
+        "city": "Mymensingh ",
+        "email": "ryanmaruf615@gmail.com",
+        "Password": "12345",
+        "contact": "01676324799"
+
+    },
+    {
+        "name": "Mou",
+        "BloodGroup": "O+",
+        "city": "Ishwargonj ",
+        "email": "rojamou@gmail.com",
+        "Password": "456",
+        "contact": "01571719192"
+
+    },
+    {
+      "name": "Arif",
+      "BloodGroup": "B+",
+      "city": "Dhaka ",
+      "email": "sadfasdf@gmail.com",
+      "Password": "asdas",
+      "contact": "01303194748"
+    }
+
+  ]
+}
